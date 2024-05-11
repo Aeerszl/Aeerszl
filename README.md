@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-   <img src="[https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F10497015-Animated-Mail-Illustration&psig=AOvVaw0nMgjEpgVoTq09PPU0zVI_&ust=1715518025395000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCNjJvevQhYYDFQAAAAAdAAAAABCBAQ)" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 324px; margin: 55.5px 0px; width: 432px;" alt="GitHub - SupianIDz/SupianIDz" jsname="kn3ccd">
+  <img src="https://cdn.dribbble.com/users/199215/screenshots/10180559/media/e92f5499d15e13469e21eb081407b2dd.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1600px; height: 324px; margin: 55.5px 0px; width: 432px;" alt="Using GIFs In Emails: What, Why And How? Tips Tricks], 53% OFF" jsname="kn3ccd">
   </a>
 </p>
 
