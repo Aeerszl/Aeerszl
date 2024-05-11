@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-  <img src="https://cdn.dribbble.com/users/199215/screenshots/10180559/media/e92f5499d15e13469e21eb081407b2dd.gif" alt="mail" height="60" width="80">
+  <img src="https://i.pinimg.com/originals/97/56/c2/9756c2a05e2dd85309fe4b3bc5d62357.gif" alt="mail" height="60" width="80">
   </a>
 </p>
 
