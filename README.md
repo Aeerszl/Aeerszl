@@ -10,6 +10,7 @@
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
   <img src="https://cdn.dribbble.com/users/18069/screenshots/1976204/invite_mailbox.gif" alt="mail" height="60" width="80">
+    mail
   </a>
 </p>
 
