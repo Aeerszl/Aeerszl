@@ -1,18 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <h3 align="center">I am Computer Engineer Student (FrontEnd developer)</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw17ADHF4Nit1pNhJoFXgQRK&ust=1715496866469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjOooSChYYDFQAAAAAdAAAAABA9">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeerszl&label=Profile%20views&color=0e75b6&style=flat" alt="aeerszl" /> </p>
 
-- 🎯I am currently learning **react**
-
-- Github [https://github.com/Aeerszl](https://github.com/Aeerszl)
-
-- Linkedin [https://www.linkedin.com/in/ali-enes-ers%C3%B6zl%C3%BC-37a135256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtZFB1c12QGCM096qwzsCyg%3D%3D](https://www.linkedin.com/in/ali-enes-ers%C3%B6zl%C3%BC-37a135256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtZFB1c12QGCM096qwzsCyg%3D%3D)
-
-- ❓Ask me about **front end**
-
-- 🗯️How to reach me **ae.ersozlu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
