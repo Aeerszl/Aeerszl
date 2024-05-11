@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gbu-presnenskij" alt="Mail" height="30" width="40" />
+   <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 324px; margin: 55.5px 0px; width: 432px;" alt="GitHub - SupianIDz/SupianIDz" jsname="kn3ccd">
   </a>
 </p>
 
