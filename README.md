@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-enes-ers%C3%B6zl%C3%BC-37a135256/" target="_blank">  
-<img src="https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=6c09b952h3oue4sfsueodqdg5u0t39vfqgrwopicywn7dbo6&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 104px; margin: 12px 0px; width: 104px;" alt="Linkedin Sticker" jsname="kn3ccd">
+<img src="https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=6c09b952h3oue4sfsueodqdg5u0t39vfqgrwopicywn7dbo6&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 100px; margin: 8px 0px; width: 100px;" alt="Linkedin Sticker" jsname="kn3ccd">
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
 <img src="https://media0.giphy.com/media/hQiDgZQIp5qsh09hOr/giphy.gif?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width:164px; height:104px; margin: 0px; width: 102px;" alt="giphy.gif ?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy. gif&amp;ct=s" jsname="kn3ccd">
