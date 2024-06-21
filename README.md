@@ -6,10 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-enes-ers%C3%B6zl%C3%BC-37a135256/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="10" width="18" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-  <img src="https://media.tenor.com/cpR9vGVN9p0AAAAM/emjoi.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 220px; height: 220px; margin: 102px 0px; width: 220px;" alt="Gmail GIF - Gmail - Discover &amp; Share GIFs" jsname="kn3ccd">
+  <img src="https://media.tenor.com/cpR9vGVN9p0AAAAM/emjoi.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 120px; height: 120px; margin: 102px 0px; width: 220px;" alt="Gmail GIF - Gmail - Discover &amp; Share GIFs" jsname="kn3ccd">
 
    </a>
 </p>
