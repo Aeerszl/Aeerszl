@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-<img src="https://media0.giphy.com/media/hQiDgZQIp5qsh09hOr/giphy.gif?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 231px; height: 201px; margin: 0px; width: 202px;" alt="giphy.gif ?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy. gif&amp;ct=s" jsname="kn3ccd">
+<img src="https://media0.giphy.com/media/hQiDgZQIp5qsh09hOr/giphy.gif?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 164px; height: 142px; margin: 0px; width: 143px;" alt="giphy.gif ?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy. gif&amp;ct=s" jsname="kn3ccd">
    </a>
 </p>
 
