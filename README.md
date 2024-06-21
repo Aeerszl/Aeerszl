@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-  <img src="https://i.pinimg.com/originals/7e/69/ec/7e69eca344ca1465da94d698ded08e8e.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 81px; margin: 50px 0px; width: 432px;" alt="Inbox Icon Animation gmail inbox icon mail counter micro interaction  interaction mailbox ios microinteractions i… | Motion design, Motion  graphics design, Animation" jsname="kn3ccd">
+  <img src="https://i.pinimg.com/originals/7e/69/ec/7e69eca344ca1465da94d698ded08e8e.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: height="30" width="40;" alt="Inbox Icon Animation gmail inbox icon mail counter micro interaction  interaction mailbox ios microinteractions i… | Motion design, Motion  graphics design, Animation" jsname="kn3ccd">
 
    </a>
 </p>
