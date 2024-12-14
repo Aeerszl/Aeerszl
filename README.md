@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
-<h3 align="center">I am Computer Engineer Student (FrontEnd developer)</h3>
+<h3 align="center">I am Computer Engineer Student (web developer)</h3>
 <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 324px; margin: 55.5px 0px; width: 432px;" alt="GitHub - SupianIDz/SupianIDz" jsname="kn3ccd">
 
 <h3 align="left">Connect with me:</h3>
