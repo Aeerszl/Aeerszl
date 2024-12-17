@@ -56,7 +56,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeerszl&show_icons=true&locale=en&layout=compact" alt="aeerszl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeerszl&show_icons=true&locale=en" alt="aeerszl" /></p>
 
