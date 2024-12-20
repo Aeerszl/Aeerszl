@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <h3 align="center">I am Computer Engineer Student (web developer)</h3>
+<img src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 324px; margin: 12.5px 0px; width: 432px;" alt="Creative Promotional Items to Connect with Coders and Techies - Programming  Insider" jsname="kn3ccd">
 <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 324px; margin: 55.5px 0px; width: 432px;" alt="GitHub - SupianIDz/SupianIDz" jsname="kn3ccd">
 
 <h3 align="left">Connect with me:</h3>
