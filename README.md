@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <h3 align="center">I am Computer Engineer Student (web developer)</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; align: center; align-items: center;">
   <img src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif" 
        jsaction="" 
        class="sFlh5c FyHeAf iPVvYb" 
