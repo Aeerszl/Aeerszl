@@ -2,17 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <div align="center">
 <h3 >I am Computer Engineer Student (web developer)</h3>
-  <img src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif" 
+  <img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
        jsaction="" 
        class="sFlh5c FyHeAf iPVvYb" 
        style="max-width: 1500px; height: 324px; margin: 12.5px 0px; width: 100%;" 
        alt="Creative Promotional Items to Connect with Coders and Techies - Programming Insider" 
        jsname="kn3ccd">
 </div>
-
-
-
-<img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 480px; height: 359px; margin: 0px; width: 479px;" alt="LF DIGITAL GIFs on GIPHY - Be Animated" jsname="kn3ccd">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
