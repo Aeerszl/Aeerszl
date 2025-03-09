@@ -12,7 +12,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 324px; margin: 55.5px 0px; width: 432px;" alt="GitHub - SupianIDz/SupianIDz" jsname="kn3ccd">
+<img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 480px; height: 359px; margin: 0px; width: 479px;" alt="LF DIGITAL GIFs on GIPHY - Be Animated" jsname="kn3ccd">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
