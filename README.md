@@ -1,8 +1,13 @@
-
-<h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <div align="center">
-<h3>I am Computer Engineer Student (web developer)</h3>
-<img src="https://raw.githubusercontent.com/Aeerszl/aliee-library/main/images/github3d.gif" width="400" alt="Ali Enes 3D Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7F7F7&background=14141400&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ali+Enes+ERSÖZLÜ;Computer+Engineer+Student;Web+Developer" alt="Typing SVG" />
+
+  <br />
+
+<img src="https://raw.githubusercontent.com/Aeerszl/aliee-library/main/images/github3d.gif" width="600" alt="Ali Enes 3D Animation"></div>
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&text=Building%20digital%20experiences&fontSize=20&animation=fadeIn" />
 </div>
 
 ---
@@ -11,15 +16,15 @@
 
 <div align="center" style="margin: 30px 0;">
   
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/ali-enes-ersözlü-37a135256" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;" />
   </a>
   
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:aliee.developer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px;" />
   </a>
   
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <a href="Aliee.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px;" />
   </a>
 
