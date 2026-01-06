@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <div align="center">
 <h3>I am Computer Engineer Student (web developer)</h3>
-
+<img src="https://raw.githubusercontent.com/Aeerszl/aliee-library/main/images/github3d.gif" width="400" alt="Ali Enes 3D Animation">
 </div>
 
 ---
