@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
+<div align="center">
+<h3>I am Computer Engineer Student (web developer)</h3>
+  
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ali Enes 3D Cube</title>
   <style>
     body {
       display: flex;
@@ -182,13 +192,8 @@
       transform: rotateY(90deg);
     }
   </style>
-
-
-
-<h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
-<div align="center">
-<h3>I am Computer Engineer Student (web developer)</h3>
- <body>
+</head>
+<body>
   <div id="wrap">
     <div class="cube">
       <div class="front">
@@ -362,6 +367,8 @@
     </div>
   </div>
 </body>
+</html>
+
 </div>
 
 ---
