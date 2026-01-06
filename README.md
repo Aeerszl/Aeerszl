@@ -1,29 +1,37 @@
-
 <h1 align="center">Hi 👋, I'm Ali Enes ERSÖZLÜ</h1>
 <div align="center">
-<h3 >I am Computer Engineer Student (web developer)</h3>
-  <img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
-       jsaction="" 
-       class="sFlh5c FyHeAf iPVvYb" 
-       style="max-width: 1500px; height: 324px; margin: 12.5px 0px; width: 100%;" 
-       alt="Creative Promotional Items to Connect with Coders and Techies - Programming Insider" 
-       jsname="kn3ccd">
+<h3>I am Computer Engineer Student (web developer)</h3>
+  <img src="./ali-enes-cube.gif" 
+       style="max-width: 600px; height: 350px; margin: 12.5px 0px; width: 100%;" 
+       alt="Ali Enes 3D Animation">
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-enes-ers%C3%B6zl%C3%BC-37a135256/" target="_blank">  
-<img src="https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=6c09b952h3oue4sfsueodqdg5u0t39vfqgrwopicywn7dbo6&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 100px; margin: 8px 0px; width: 100px;" alt="Linkedin Sticker" jsname="kn3ccd">
+---
+
+## 🌐 Connect with me:
+
+<div align="center" style="margin: 30px 0;">
+  
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;" />
   </a>
-  <a href="mailto:ae.ersozlu@gmail.com" target="_blank">
-<img src="https://media0.giphy.com/media/hQiDgZQIp5qsh09hOr/giphy.gif?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy.gif&amp;ct=s" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width:164px; height:104px; margin: 0px; width: 102px;" alt="giphy.gif ?cid=6c09b952x5z6itc9ww2kozr22pbvex84xg2jw5j5vd4ol0gu&amp;ep=v1_internal_gif_by_id&amp;rid=giphy. gif&amp;ct=s" jsname="kn3ccd">
-   </a>
-</p>
+  
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px;" />
+  </a>
+  
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px;" />
+  </a>
 
+</div>
 
-</p>
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🚀 Languages and Tools:
+
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -122,10 +130,11 @@
     </td>
   </tr>
 </table>
+
 </div>
-</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeerszl&show_icons=true&locale=en" alt="aeerszl" /></p>
-
-
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Ali Enes ERSÖZLÜ</a></i>
+</div>
