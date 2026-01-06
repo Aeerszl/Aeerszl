@@ -24,18 +24,7 @@
 />
 
 <p>
-  <span style="
-    color:#36BCF7;
-    background:#0d1117;
-    padding:8px 16px;
-    border-radius:12px;
-    border:1px solid #36BCF7;
-    font-weight:600;
-    margin-right:8px;
-    display:inline-block;
-  ">
-    💻 Computer Engineering
-  </span>
+
 
   <span style="
     color:#E4405F;
