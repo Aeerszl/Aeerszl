@@ -1,14 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7F7F7&background=14141400&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ali+Enes+ERSÖZLÜ;Computer+Engineer+Student;Web+Developer" alt="Typing SVG" />
 
-  <br />
+<h1 style="border-bottom: none;">
+  <span style="color: #36BCF7;">Ali Enes</span> 
+  <span style="color: #FFFFFF;">ERSÖZLÜ</span>
+</h1>
 
-<img src="https://raw.githubusercontent.com/Aeerszl/aliee-library/main/images/github3d.gif" width="600" alt="Ali Enes 3D Animation"></div>
+<img src="https://raw.githubusercontent.com/Aeerszl/aliee-library/main/images/github3d.gif" width="600" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 
-  <br />
+<br>
 
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&text=Building%20digital%20experiences&fontSize=20&animation=fadeIn" />
+<p align="center">
+  <code style="color: #36BCF7; background: #1a1a1a; padding: 5px 15px; border-radius: 10px; border: 1px solid #36BCF7;">
+    Computer Engineering Student
+  </code>
+  &nbsp;
+  <code style="color: #E4405F; background: #1a1a1a; padding: 5px 15px; border-radius: 10px; border: 1px solid #E4405F;">
+    Web Developer
+  </code>
+</p>
+
+<p style="font-style: italic; color: #888;">"Building digital experiences with code and creativity."</p>
+
 </div>
+
+---
 
 ---
 
