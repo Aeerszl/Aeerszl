@@ -12,22 +12,6 @@
   "
 />
 
-<p>
-
-
-  <span style="
-    color:#E4405F;
-    background:#0d1117;
-    padding:8px 16px;
-    border-radius:12px;
-    border:1px solid #E4405F;
-    font-weight:600;
-    display:inline-block;
-  ">
-    🚀 Software Developer
-  </span>
-</p>
-
 </div>
 
 ---
