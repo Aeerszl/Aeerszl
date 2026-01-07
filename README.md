@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/github_readme_svg.svg" alt="Ali Enes ERSÖZLÜ" width="800"/>
+  <img src="(https://github.com/Aeerszl/aliee-library/blob/main/images/github_readme_svg.svg)" alt="Ali Enes ERSÖZLÜ" width="800"/>
 
 
 <img 
